@@ -2246,7 +2246,7 @@ textarea.input-lg {
 .has-error .input-group-addon {
   color: #fff;
   border-color: #fff;
-  background-color: #ff2c74;
+  background-color: #324d96;
 }
 .has-error .form-control-feedback {
   color: #fff;
@@ -2475,8 +2475,8 @@ fieldset[disabled] .btn-default:hover {
 .btn-primary.focus,
 .btn-primary:focus {
   color: #fff;
-  background-color: #cc004d;
-  border-color: #800030;
+  background-color: #5800cc;
+  border-color: #020080;
 }
 .btn-primary.active,
 .btn-primary:active,
